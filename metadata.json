@@ -1,0 +1,6 @@
+{
+  "name": "BHTB Library Social Media Hub",
+  "description": "Interactive Social Media Policy, KPI Dashboard, Content Planner, Consent Form Builder, and Incident Logger for the Buganda Heritage and Tourism Board Library",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
